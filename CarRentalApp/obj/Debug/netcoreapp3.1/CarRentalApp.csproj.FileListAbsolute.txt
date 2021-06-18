@@ -1,0 +1,15 @@
+C:\Users\Slye-Man\Documents\Programming\C#\CarRentalApp\CarRentalApp\bin\Debug\netcoreapp3.1\CarRentalApp.exe
+C:\Users\Slye-Man\Documents\Programming\C#\CarRentalApp\CarRentalApp\bin\Debug\netcoreapp3.1\CarRentalApp.deps.json
+C:\Users\Slye-Man\Documents\Programming\C#\CarRentalApp\CarRentalApp\bin\Debug\netcoreapp3.1\CarRentalApp.runtimeconfig.json
+C:\Users\Slye-Man\Documents\Programming\C#\CarRentalApp\CarRentalApp\bin\Debug\netcoreapp3.1\CarRentalApp.runtimeconfig.dev.json
+C:\Users\Slye-Man\Documents\Programming\C#\CarRentalApp\CarRentalApp\bin\Debug\netcoreapp3.1\CarRentalApp.dll
+C:\Users\Slye-Man\Documents\Programming\C#\CarRentalApp\CarRentalApp\bin\Debug\netcoreapp3.1\CarRentalApp.pdb
+C:\Users\Slye-Man\Documents\Programming\C#\CarRentalApp\CarRentalApp\obj\Debug\netcoreapp3.1\CarRentalApp.csprojAssemblyReference.cache
+C:\Users\Slye-Man\Documents\Programming\C#\CarRentalApp\CarRentalApp\obj\Debug\netcoreapp3.1\CarRentalApp.Form1.resources
+C:\Users\Slye-Man\Documents\Programming\C#\CarRentalApp\CarRentalApp\obj\Debug\netcoreapp3.1\CarRentalApp.csproj.GenerateResource.cache
+C:\Users\Slye-Man\Documents\Programming\C#\CarRentalApp\CarRentalApp\obj\Debug\netcoreapp3.1\CarRentalApp.AssemblyInfoInputs.cache
+C:\Users\Slye-Man\Documents\Programming\C#\CarRentalApp\CarRentalApp\obj\Debug\netcoreapp3.1\CarRentalApp.AssemblyInfo.cs
+C:\Users\Slye-Man\Documents\Programming\C#\CarRentalApp\CarRentalApp\obj\Debug\netcoreapp3.1\CarRentalApp.csproj.CoreCompileInputs.cache
+C:\Users\Slye-Man\Documents\Programming\C#\CarRentalApp\CarRentalApp\obj\Debug\netcoreapp3.1\CarRentalApp.dll
+C:\Users\Slye-Man\Documents\Programming\C#\CarRentalApp\CarRentalApp\obj\Debug\netcoreapp3.1\CarRentalApp.pdb
+C:\Users\Slye-Man\Documents\Programming\C#\CarRentalApp\CarRentalApp\obj\Debug\netcoreapp3.1\CarRentalApp.genruntimeconfig.cache
